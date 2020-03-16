@@ -1,0 +1,6 @@
+# This is a comment.
+# Each line is a label name followed by one or more owners.
+
+area-animals @rokonec @tkapin
+area-cats @rokonec @tkapin
+area-dogs @certainlynotme
