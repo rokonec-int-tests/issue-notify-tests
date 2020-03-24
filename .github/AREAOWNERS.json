@@ -1,5 +1,6 @@
 [
   { "label" : "area-cat", "owner" : "TestLabelNotifyUserX"},
   { "label" : "area-dog", "owner" : "TestLabelNotifyUserX"},
-  { "label" : "area-dog", "owner" : "TestLabelNotifyUserY"}
+  { "label" : "area-dog", "owner" : "TestLabelNotifyUserY"},
+  { "label" : "area-cat", "owner" : "rokonec"}
 ]
