@@ -1,7 +1,6 @@
 [
+  { "label" : "area-Microsoft.CSharp", "user" : "rokonec-int-tests/microsoft-csharp"},
   { "label" : "area-cat", "user" : "TestLabelNotifyUserX"},
   { "label" : "area-dog", "user" : "TestLabelNotifyUserX"},
-  { "label" : "area-dog", "user" : "TestLabelNotifyUserY"},
-  { "label" : "area-cat", "user" : "rokonec"},
-  { "label" : "area-cat", "user" : "tkapin"}
+  { "label" : "area-dog", "user" : "TestLabelNotifyUserY"}
 ]
