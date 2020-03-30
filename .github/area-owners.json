@@ -1,0 +1,10 @@
+[
+  {
+    "labels": ["area-Serialization"], 
+    "owners": ["StephenMolloy", "HongGit"]
+  },
+  {
+    "labels": ["area-GC-coreclr"],
+    "owners": ["Maoni0"]
+  }
+]
