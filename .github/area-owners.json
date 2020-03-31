@@ -6,5 +6,9 @@
   {
     "labels": ["area-GC-coreclr"],
     "owners": ["Maoni0"]
+  },
+  {
+    "labels": ["area-eng-github"],
+    "owners": ["rokonec", "tkapin"]
   }
 ]
