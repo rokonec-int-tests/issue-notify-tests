@@ -2,6 +2,7 @@
   { "label" : "area-Serialization", "user" : "StephenMolloy-dont-bother"},
   { "label" : "area-Serialization", "user" : "HongGit-dont-bother"},
   { "label" : "area-GC-coreclr",    "user" : "Maoni0-dont-bother"},
+  { "label" : "area-GC-coreclr",    "user" : "rokonec"},
   { "label" : "area-eng-github",    "user" : "rokonec"},
   { "label" : "area-eng-github",    "user" : "tkapin"}
 ]
